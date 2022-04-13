@@ -2,5 +2,3 @@ Teste de texto
 linha nova
 Linha mais nova ainda
 nova para fazer rolback
-safdf234
-rwerw
